@@ -173,6 +173,7 @@ int main()
 */
 
 /*
+// RELEASE Mode, VS 2015
 N = 0 / cases = 0 / Delay = 0s
 N = 1 / cases = 1 / Delay = 0s
 N = 2 / cases = 0 / Delay = 0s
@@ -330,6 +331,7 @@ int main()
 
 /// 결과적으로 속도가 크게 감소했음
 /*
+// RELEASE Mode, VS 2015
 N = 0 / cases = 0 / Delay = 0s
 N = 1 / cases = 1 / Delay = 0s
 N = 2 / cases = 0 / Delay = 0s
